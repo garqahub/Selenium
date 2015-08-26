@@ -1,0 +1,14 @@
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\SauceLabs.SeleniumExamples.xml
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\SauceLabs.SeleniumExamples.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\SauceLabs.SeleniumExamples.pdb
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\Gallio.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\Gallio40.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\MbUnit.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\MbUnit40.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\WebDriver.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\WebDriver.Support.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\WebDriver.xml
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\bin\Debug\WebDriver.Support.xml
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\obj\Debug\SauceLabsSeleniumExamples.csprojResolveAssemblyReference.cache
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\obj\Debug\SauceLabs.SeleniumExamples.dll
+C:\Users\schultzm\Documents\sauce-dotnet-examples-master\sauce-dotnet-examples-master\obj\Debug\SauceLabs.SeleniumExamples.pdb

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SauceLabs.SeleniumExamples</name>
+    </assembly>
+    <members>
+        <member name="T:SauceLabs.SeleniumExamples.Constants">
+            <summary>contains constants used by the tests such as the user name and password for the sauce labs</summary>
+        </member>
+        <member name="F:SauceLabs.SeleniumExamples.Constants.SAUCE_LABS_ACCOUNT_NAME">
+            <summary>name of the sauce labs account that will be used</summary>
+        </member>
+        <member name="F:SauceLabs.SeleniumExamples.Constants.SAUCE_LABS_ACCOUNT_KEY">
+            <summary>account key for the sauce labs account that will be used</summary>
+        </member>
+        <member name="T:SauceLabs.SeleniumExamples.GuineaPigTests">
+            <summary>tests for the sauce labs guinea pig page</summary>
+        </member>
+        <member name="M:SauceLabs.SeleniumExamples.GuineaPigTests._Setup(System.String,System.String,System.String)">
+            <summary>starts a sauce labs sessions</summary>
+            <param name="browser">name of the browser to request</param>
+            <param name="version">version of the browser to request</param>
+            <param name="platform">operating system to request</param>
+        </member>
+        <member name="M:SauceLabs.SeleniumExamples.GuineaPigTests.CleanUp(OpenQA.Selenium.IWebDriver)">
+            <summary>called at the end of each test to tear it down</summary>
+        </member>
+        <member name="M:SauceLabs.SeleniumExamples.GuineaPigTests.PageTitle(System.String,System.String,System.String)">
+            <summary>tests the title of the page</summary>
+        </member>
+        <member name="M:SauceLabs.SeleniumExamples.GuineaPigTests.LinkWorks(System.String,System.String,System.String)">
+            <summary>tests that the link works on the page</summary>
+        </member>
+        <member name="M:SauceLabs.SeleniumExamples.GuineaPigTests.UserAgentPresent(System.String,System.String,System.String)">
+            <summary>tests that a useragent element is present on the page</summary>
+        </member>
+    </members>
+</doc>
